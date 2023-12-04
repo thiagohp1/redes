@@ -1,0 +1,2 @@
+[2023-12-04 13:21:41] Conexão apartir do Host: C1152 IP do cliente: 192.168.60.34 Porta: 60530
+[2023-12-04 13:21:41] Conexão apartir do Host: C1152 IP do cliente: 192.168.60.34 Porta: 60531
