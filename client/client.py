@@ -1,6 +1,6 @@
 import socket
 
-host = '192.168.60.34'
+host = '192.168.0.184'
 port_number = 8888
 
 def get_html():
